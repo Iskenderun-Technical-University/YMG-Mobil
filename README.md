@@ -1,7 +1,7 @@
 # YMG-Mobil
 
 # Giriş 📱
-  Bu projenin amacı insanların boş vakitlerinde girip eğlenebileceği bir mobil oyun geliştirmektir. Bu projeyi seçme sebebim kendi geliştirdiğim tarzak mobil oyunlar oynamayı sevmem ve geliştirilebilir yerler görmem. 
+  Bu projenin amacı insanların boş vakitlerinde girip eğlenebileceği bir mobil oyun geliştirmektir. Bu projeyi seçme sebebim kendi geliştirdiğim tarzak mobil oyunlar oynamayı sevmem ve geliştirilebilir yerler görmem. Bu tarz oyunlar yapmak aslında basittir ama aklınıza gelecek bir çok detay olabillir. Ben bu projede basit görünen bir oyuna ekleyebildiğim kadar detay eklemeye ve kullanıcıya benzerlerine göre daha kapsamlı ve kolaylık sunan bir içerik üretmeyi hedefliyorum.
   
   Projeyi yapmayı seçerken referans aldığım birkaç oyun mevcut. Catch the Kenny, Fruit Ninja vb.  
 
