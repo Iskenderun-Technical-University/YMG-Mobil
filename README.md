@@ -21,10 +21,10 @@ Oyun başlamadan önce içerikler sayfasında mevcut, içerikler sayfasında oyu
 # Proje Görev Kontrol Listesi
   | GÖREV           | KALAN SÜRE | GÖREVLİ       | DURUMU      | TAMAMLANDI |
   |-----------------|------------|---------------|-------------|------------|
-  |Oyun Ekranı      | 10 gün     | Berkay Kütük  | Yapılıyor   | <ul><li>- [ ] Tamamlandı</li><li>- [x] Tamamlanmadı </li></ul> |
-  |ANA Menü         | 15 gün     | Berkay Kütük  | Yapılıyor   | <ul><li>- [ ] Tamamlandı</li><li>- [x] Tamamlanmadı </li></ul> |
+  |Oyun Ekranı      | 5 gün     | Berkay Kütük  | Yapılıyor   | <ul><li>- [ ] Tamamlandı</li><li>- [x] Tamamlanmadı </li></ul> |
+  |ANA Menü         | 10 gün     | Berkay Kütük  | Yapılıyor   | <ul><li>- [ ] Tamamlandı</li><li>- [x] Tamamlanmadı </li></ul> |
   |Ekranları Bağlama| 15 gün     | Berkay Kütük  | Yapılıyor   | <ul><li>- [ ] Tamamlandı</li><li>- [x] Tamamlanmadı </li></ul> |
-  |Oyun Ekranı Kod  | 20 gün     | Berkay Kütük  | Yapılıyor   | <ul><li>- [ ] Tamamlandı</li><li>- [x] Tamamlanmadı </li></ul> |
-  |Ana Menü Kod     | 25 gün     | Berkay Kütük  | Yapılıyor   | <ul><li>- [ ] Tamamlandı</li><li>- [x] Tamamlanmadı </li></ul> |
+  |Oyun Ekranı Kod  | 25 gün     | Berkay Kütük  | Yapılıyor   | <ul><li>- [ ] Tamamlandı</li><li>- [x] Tamamlanmadı </li></ul> |
+  |Ana Menü Kod     | 30 gün     | Berkay Kütük  | Yapılıyor   | <ul><li>- [ ] Tamamlandı</li><li>- [x] Tamamlanmadı </li></ul> |
 
 
